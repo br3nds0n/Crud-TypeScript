@@ -1,0 +1,25 @@
+{
+  "name": "Crud-TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/br3nds0n/Crud-TypeScript.git",
+  "author": "br3nds0n <brendson.net@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:server": "ts-node-dev --transpile-only src/server.ts"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.45"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@typescript-eslint/eslint-plugin": "^5.14.0",
+    "@typescript-eslint/parser": "^5.14.0",
+    "eslint": "^8.10.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  }
+}
