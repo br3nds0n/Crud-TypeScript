@@ -1,6 +1,6 @@
+import 'dotenv/config';
 import 'reflect-metadata';
-import express from 'express';
 
-const app = express();
+import App from './App';
 
-app.listen(3000, ()=> console.log('server is running'));
+App.listen(process.env.PORT, () => console.log(`Server listening at http://localhost:${process.env.PORT}`));
