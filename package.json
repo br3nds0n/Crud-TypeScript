@@ -1,12 +1,13 @@
 {
-  "name": "Crud-TypeScript",
+  "name": "Video-Registration",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/br3nds0n/Crud-TypeScript.git",
+  "repository": "https://github.com/br3nds0n/Video-Registration.git",
   "author": "br3nds0n <brendson.net@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev:server": "ts-node-dev --transpile-only src/server.ts"
+    "dev:server": "ts-node-dev --transpile-only src/server.ts",
+    "typeorm": "ts-node-dev node_modules/.bin/typeorm"
   },
   "dependencies": {
     "express": "^4.17.3",
