@@ -18,7 +18,7 @@ export class CreateVideos1647008123160 implements MigrationInterface {
 						isUnique: true
 					},
 					{
-						name: 'descripition',
+						name: 'description',
 						type: 'varchar'
 					},
 					{
