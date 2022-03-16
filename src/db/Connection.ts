@@ -6,9 +6,13 @@ class Connection {
 	}
 
 	private async connect(): Promise<void> {
-		await createConnection()
-			.then(() => console.log('connect to database'))
-			.catch((error) => console.log(error));
+		try {
+			await createConnection();
+			console.log('connect to database!');
+
+		} catch (error) {
+			console.log(error);
+		}
 	}
 }
 
