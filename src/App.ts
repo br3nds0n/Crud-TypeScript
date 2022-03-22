@@ -1,5 +1,5 @@
 import express, { Express } from 'express';
-import { routes } from './routes';
+import { routes } from './routes/routes';
 import './db/Connection';
 
 class App {
