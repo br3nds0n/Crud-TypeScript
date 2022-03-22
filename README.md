@@ -1,4 +1,4 @@
-# Video Registration 🎥 <img align="right" src="https://img.shields.io/static/v1?label=project&message=TypeScript&color=0FC6D3&style=for-the-badge&logo=ghost"/>
+# Video Registration 🎥 <img align="right" src="https://user-images.githubusercontent.com/82064724/159575036-cd92f8b0-6346-49a3-9668-8c9b4ee7a734.gif"/>
 <p align="center">
 <img height="250" width="850" src="https://user-images.githubusercontent.com/82064724/157788643-95c2a99d-1e4e-4944-918c-456933d6852d.gif">
 </p>
