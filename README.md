@@ -5,7 +5,7 @@
 
 Bem-vindo(a).
 
-Opa dev tudo bem?! Meu nome é Brendson sou o [autor](#-Autor) desse projeto, que mostra um pouco do meu desenvolvimento em back-en com TypeScript. Venho através desse repositório mostrar um pouco do que aprendi. Espero que goste!!
+Opa dev tudo bem?! Meu nome é Brendson sou o [autor](#-Autor) desse projeto, que mostra um pouco do meu desenvolvimento em back-end com TypeScript. Venho através desse repositório mostrar um pouco do que aprendi. Espero que goste!!
 
 Vamos ao projeto!! 🚀
 
