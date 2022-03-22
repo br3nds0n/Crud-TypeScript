@@ -1,4 +1,4 @@
-# Video Registration 🎥 <img align="right" src="https://img.shields.io/static/v1?label=project&message=React&color=0FC6D3&style=for-the-badge&logo=ghost"/>
+# Video Registration 🎥 <img align="right" src="https://img.shields.io/static/v1?label=project&message=TypeScript&color=0FC6D3&style=for-the-badge&logo=ghost"/>
 <p align="center">
 <img height="250" width="850" src="https://user-images.githubusercontent.com/82064724/157788643-95c2a99d-1e4e-4944-918c-456933d6852d.gif">
 </p>
@@ -19,7 +19,6 @@ Vamos ao projeto!! 🚀
    * [📥 Baixar e executar o projeto](#-Baixar-e-executar-o-projeto)
      * [Setup da aplicação](#-setup-da-aplicação)
      * [Iniciando a aplicação](#-iniciando-a-aplicação)
-     * [Visualização](#-Visualização)
    * [🛠 Tecnologias](#-tecnologias)
    * [✍🏼 Autor](#-Autor)
    * [📝 Licença](#-licença)
@@ -54,7 +53,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone <https://github.com/br3nds0n/Video-Registration>
 
 # Acesse a pasta do projeto no terminal
-$ cd task-list-react
+$ cd Video-Registration
 
 # Instale as dependências
 $ yarn install
@@ -71,13 +70,6 @@ $ yarn dev:server
 ```
 #
 
-### 👀 Visualização
-> Aqui é onde utilizo a aplicação, fazendo `adições/remoções` a lista de tarefas.
-
-![list](https://user-images.githubusercontent.com/82064724/157792659-94563cb9-794d-4ae6-ba12-36af58d63e90.gif)
-
-<br>
-
 [<Back](#indice)
 
 ---
@@ -88,9 +80,9 @@ As seguintes ferramentas/tecnologias foram usadas na construção e testagem do 
 | logo               | Framework                  | Version      |
 | :----------------- | :------------------------- | :----------: |
 | <a href="https://nodejs.org/pt-br/download/" target="_blank"><img align="center" alt="nodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"></a>                   | NodeJs                     |  `16.13.1`      |
-| <a href="https://pt-br.reactjs.org/docs/create-a-new-react-app.html" target="_blank"><img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>            | ReactJs                     |  `17.0.2`       |
+| <a href="https://www.postgresql.org/download/" target="_blank"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></a>            | PostgreSQL                      |  `8.7.3`       |
+| <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">            | TypeScript                    |  `4.6.2`       |
 | <a href="https://code.visualstudio.com/download" target="_blank"><img align="center" alt="VsCode" height="25" width="35" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></a> | VsCode | `1.63.2` |
-
  
  <br>
 
