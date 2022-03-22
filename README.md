@@ -5,7 +5,7 @@
 
 Bem-vindo(a).
 
-Opa dev tudo bem?! Meu nome é Brendson sou o [autor](#-Autor) desse projeto, que mostra um pouco da minha passagem pelo front-end com ReactJs. Venho através desse repositório mostrar um pouco do que aprendi. Espero que goste!!
+Opa dev tudo bem?! Meu nome é Brendson sou o [autor](#-Autor) desse projeto, que mostra um pouco do meu desenvolvimento em back-en com TypeScript. Venho através desse repositório mostrar um pouco do que aprendi. Espero que goste!!
 
 Vamos ao projeto!! 🚀
 
@@ -27,12 +27,12 @@ Vamos ao projeto!! 🚀
  ---
 
  ## 🧠 Contexto
-> **Característica do Projeto:**  *Lista de tarefas* 📝
+> **Característica do Projeto:**  *Resgistro de Videos* 📝
 
-Neste projeto crio uma interface de lista de tarefas onde o usuário pode gerenciar suas atividades/tarefas diárias. Aplico os fluxos de:
+Neste projeto crio uma api de registro onde pode ser relacionado o filme com a categoria. Aplico os fluxos de:
 
- * Interação. (criar e remover tarefas);
- * Consumo de api externa;
+ * Interação de métodos http. (criar, buscar, editar e remover);
+ * Relacionamento de tabelas
 
 ---
 
@@ -123,5 +123,5 @@ Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
  <br>               
   
- [<Back](#Video-Registration)
+ [<Back](video-registration--)
  
